@@ -34,4 +34,8 @@ function dec(n){
    return parseTo;
  }
  
- 
+ function preserveDecimal(n){
+   var digit = parseFloat(n);
+   return digit;
+   
+ }
