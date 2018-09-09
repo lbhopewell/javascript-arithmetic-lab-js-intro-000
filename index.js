@@ -30,7 +30,7 @@ function dec(n){
  }
  
  function makeInt(n){
-   var parseTo = parceInt(n, 10);
+   var parseTo = parseInt(n, 10);
    return parseTo;
  }
  
