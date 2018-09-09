@@ -29,3 +29,9 @@ function dec(n){
    return parse;
  }
  
+ function makeInt(n){
+   var parseTo = parceInt(n, 10);
+   return parseTo;
+ }
+ 
+ 
